@@ -1,24 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════════╗
-║           CYBER TOOL - AI-Powered Security Suite         ║
-║                     Entry Point                          ║
-╚══════════════════════════════════════════════════════════╝
-
-Features:
-  • 🔐 Password Strength Analyser (AI-powered)
-  • 📧 Suspicious Email Detector (AI-powered)
-  • 📤 Email Sender with Templates
-  • 🤖 AI Assistant (Google Gemini)
-  • 🎨 Modern Dark GUI (CustomTkinter)
-
-Default Login:
-  Username : admin
-  Password : admin123
-
-Author : Cyber Tool Project
-Version: 1.0.0
-"""
-
 import sys
 import os
 
